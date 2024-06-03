@@ -6,8 +6,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Browse our newest products",
+            "heading": "Wedding Rings & Bands",
             "heading_size": "h0"
+          }
+        },
+        "text_7efdwa": {
+          "type": "text",
+          "settings": {
+            "text": "A wedding band lined with diamonds is a stunning and complementary addition to your precious engagement ring. Whether you prefer channel or claw set diamonds in a yellow, white or rose gold wedding band, here at Diamonds International we sell diamond wedding bands in all settings and with whatever size and quality of diamonds you desire.",
+            "text_style": "body"
           }
         },
         "button": {
@@ -24,15 +31,17 @@
       },
       "block_order": [
         "heading",
+        "text_7efdwa",
         "button"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
+        "image": "shopify:\/\/shop_images\/banner_image.jpg",
+        "image_overlay_opacity": 0,
         "image_height": "large",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
