@@ -48,39 +48,6 @@
         "show_text_below": false
       }
     },
-    "collection_list_PUfxCB": {
-      "type": "collection-list",
-      "blocks": {
-        "featured_collection_7UpTTt": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "summer-collection"
-          }
-        },
-        "featured_collection_LcKVKR": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "frontpage"
-          }
-        }
-      },
-      "block_order": [
-        "featured_collection_7UpTTt",
-        "featured_collection_LcKVKR"
-      ],
-      "settings": {
-        "title": "Latest Collections",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 2,
-        "color_scheme": "",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collage_QdLeUU": {
       "type": "collage",
       "blocks": {
@@ -120,6 +87,39 @@
         "padding_bottom": 36
       }
     },
+    "collection_list_PUfxCB": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_7UpTTt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "summer-collection"
+          }
+        },
+        "featured_collection_LcKVKR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_7UpTTt",
+        "featured_collection_LcKVKR"
+      ],
+      "settings": {
+        "title": "Latest Collections",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -151,8 +151,8 @@
   },
   "order": [
     "image_banner",
-    "collection_list_PUfxCB",
     "collage_QdLeUU",
+    "collection_list_PUfxCB",
     "featured_collection"
   ]
 }
