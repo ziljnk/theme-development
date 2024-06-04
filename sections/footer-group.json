@@ -8,12 +8,20 @@
         "brand_information_khaGCE": {
           "type": "brand_information",
           "settings": {
-            "show_social": true
+            "show_social": false
+          }
+        },
+        "link_list_W3BiFb": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
           }
         }
       },
       "block_order": [
-        "brand_information_khaGCE"
+        "brand_information_khaGCE",
+        "link_list_W3BiFb"
       ],
       "settings": {
         "color_scheme": "scheme-1",
