@@ -34,6 +34,9 @@
         "text_7efdwa",
         "button"
       ],
+      "custom_css": [
+        ".banner__box {backdrop-filter: blur(16px); background-color: rgba(255, 255, 255, 0.5);}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/banner_image.jpg",
         "image_overlay_opacity": 0,
@@ -181,6 +184,9 @@
         "heading_q3Lfmh",
         "text_B37eip",
         "buttons_a3RbAC"
+      ],
+      "custom_css": [
+        ".banner__box {backdrop-filter: blur(16px); background-color: rgba(255, 255, 255, 0.5);}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/second_banner.jpg",
