@@ -74,8 +74,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/our_story_1.webp",
-        "height": "medium",
-        "desktop_image_width": "medium",
+        "height": "large",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -101,7 +101,7 @@
         "text_VcJqgL": {
           "type": "text",
           "settings": {
-            "text": "<p>As Australia’s Premier Online and Australasian Award-Winning Jewellery Retailer, My Jewellery Shop is far more than a store−it is an experience. Enjoy shopping in style at our beautiful boutique store located on the Gold Coast, or shop with us online 24\/7. Our extensive range of fine jewellery includes signature collections of yellow, white, and rose gold, in addition to hand-picked precious gemstone and pearl pieces.<br\/><br\/>Feel free to email us for some personal advice, it’s what we do best. We are available to help you source a specific piece of jewellery, or loose diamond, or to guide you through the process of deciding exactly what is right for that special someone− maybe even yourself! You can email us at<\/p>",
+            "text": "<p>As Australia’s Premier Online and Australasian Award-Winning Jewellery Retailer, My Jewellery Shop is far more than a store−it is an experience. Enjoy shopping in style at our beautiful boutique store located on the Gold Coast, or shop with us online 24\/7. Our extensive range of fine jewellery includes signature collections of yellow, white, and rose gold, in addition to hand-picked precious gemstone and pearl pieces.<br\/><br\/>Feel free to email us for some personal advice, it’s what we do best. We are available to help you source a specific piece of jewellery, or loose diamond, or to guide you through the process of deciding exactly what is right for that special someone− maybe even yourself! You can email us at<\/p><p><a href=\"mailto:service@duywelry.com\" target=\"_blank\" title=\"mailto:service@duywelry.com\">service@duywelry.com<\/a><\/p><p>Enjoy!<\/p><p>Linh.<\/p>",
             "text_style": "body"
           }
         }
@@ -110,13 +110,17 @@
         "heading_rQmhRY",
         "text_VcJqgL"
       ],
+      "custom_css": [
+        ".image-with-text__text.rte.body {font-size: 16px; font-weight: 400; line-height: 1.5em; margin: -0.25em 0;"
+      ],
       "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "image": "shopify:\/\/shop_images\/our_story_2.webp",
+        "height": "large",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "section_color_scheme": "",
         "color_scheme": "",
         "image_behavior": "none",
