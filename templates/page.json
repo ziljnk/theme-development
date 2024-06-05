@@ -13,33 +13,25 @@
         "heading_7niR9J": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Our Story",
             "heading_size": "h1"
           }
         },
         "text_ieCnR3": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "As Australia’s Premier Online and Australasian Award Winning Jewellery Retailer, Duywelry is far more than a store, it is an experience. Enjoy shopping in style at our beautiful boutique store on the Gold Coast, or shop with us online 24\/7.",
             "text_style": "body"
-          }
-        },
-        "buttons_Nf8EFc": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
         "heading_7niR9J",
-        "text_ieCnR3",
-        "buttons_Nf8EFc"
+        "text_ieCnR3"
+      ],
+      "custom_css": [
+        ".banner__heading.inline-richtext.h1 {color: #ffffff; font-weight: bold; text-transform: uppercase; line-height: 1.125em; font-size: 64px;}",
+        ".banner__text.rte.body {color: #ffffff;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/our_story_banner.webp",
@@ -51,8 +43,8 @@
         "color_scheme": "scheme-1",
         "image_behavior": "fixed",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     }
   },
