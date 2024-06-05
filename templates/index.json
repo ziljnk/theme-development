@@ -236,9 +236,12 @@
     },
     "featured_blog_XAUgXJ": {
       "type": "featured-blog",
+      "custom_css": [
+        ".blog__title {width: 100%; text-align: center;}"
+      ],
       "settings": {
         "heading": "Blog posts",
-        "heading_size": "h1",
+        "heading_size": "h0",
         "blog": "news",
         "post_limit": 3,
         "columns_desktop": 3,
@@ -247,6 +250,94 @@
         "show_date": true,
         "show_author": false,
         "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_bqb3Gm": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_wb69Qp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "WHAT KIND OF JEWELLERY DO DUYWELLERY HAVE ON OFFER?",
+            "icon": "none",
+            "row_content": "<p>Duywellery is an extensive range of exceptional fine jewellery, including engagement rings, wedding bands, bracelets and rings. Regardless of whether you prefer silver, gold, or rose gold jewellery, you’re bound to find a piece you love at Duywellery. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_krk7Fb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "DO YOUR JEWELLERS OFFER CUSTOM DESIGNS?",
+            "icon": "none",
+            "row_content": "<p>Of course! At Duywellery, we pride ourselves in breathing life into your visions, creating custom designs that are as unique as you. Our exceptionally skilled team of Duywellery<strong> jewellers<\/strong> are more than craftspeople; they're artists who use precious metals and gemstones as their canvas. You may already have a vision in your mind's eye or, perhaps, you need a dash of inspiration from the professionals. Regardless, our Duywellery jewellers are here to guide you, collaborate with you, and ultimately, celebrate with you as we unveil your dream piece. <\/p><p>Book your virtual or in-person appointment to get started today!<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_hkMikD": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "WHY SHOULD I PURCHASE MY ENGAGEMENT RING AT YOUR JEWELLERY STORE?",
+            "icon": "none",
+            "row_content": "<p>Choosing an engagement ring is a huge milestone in anyone’s life. It's not just a ring; it's a promise of commitment, a symbol of your love story, and a piece of jewellery that you'll cherish forever. <\/p><p>At Duywellery, our carefully curated selection of engagement rings is nothing short of breathtaking. From timeless diamond solitaires that whisper of classic romance, to unique custom-designed pieces that scream daring individuality, each ring in our collection is more than a piece of jewellery. It's a work of art, designed to capture the essence of your love story and express it in the most beautiful way possible.<\/p><p>But the journey doesn't stop at our impressive range. You'll be partnered with one of our passionate jewellers who will be with you every step of the way, ready to assist in translating your vision into reality. They'll listen to your desires, guide you through the process, and help you find or create the ring that captures the depth and uniqueness of your love.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_wb69Qp",
+        "collapsible_row_krk7Fb",
+        "collapsible_row_hkMikD"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "DUYWELLERY - FAQs",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_z9Utxr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_kmmnpt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_ELRcxG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kmmnpt",
+        "text_ELRcxG"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -259,6 +350,8 @@
     "featured_collection",
     "image_banner_hFaKM6",
     "image_with_text_Rz4ETe",
-    "featured_blog_XAUgXJ"
+    "featured_blog_XAUgXJ",
+    "collapsible_content_bqb3Gm",
+    "image_with_text_z9Utxr"
   ]
 }
