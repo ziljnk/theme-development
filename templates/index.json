@@ -35,7 +35,7 @@
         "button"
       ],
       "custom_css": [
-        ".banner__box {backdrop-filter: blur(10px); background-color: rgba(255, 255, 255, 0.5);}"
+        ".banner__box {backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); background-color: rgba(255, 255, 255, 0.5);}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/banner_image.jpg",
@@ -186,7 +186,7 @@
         "buttons_a3RbAC"
       ],
       "custom_css": [
-        ".banner__box {backdrop-filter: blur(16px); background-color: rgba(255, 255, 255, 0.5);}"
+        ".banner__box {backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); background-color: rgba(255, 255, 255, 0.5);}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/second_banner.jpg",
