@@ -31,11 +31,12 @@
         "heading_imwDTQ"
       ],
       "custom_css": [
-        ".featured-content--title {}"
+        ".banner__heading {word-break: break-word; font-size: 64px; line-height: 1.125em; letter-spacing: -1px; color: #ffffff;}",
+        ".banner__text {font-size: 12px; letter-spacing: 1.5px; color: #ffffff;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/contact_us.webp",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 30,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -46,10 +47,44 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "rich_text_KF3Rbk": {
+      "type": "rich-text",
+      "blocks": {
+        "text_tCQhUf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Call Us: <a href=\"tel:0912345678\" target=\"_blank\" title=\"tel:0912345678\">(09) 1234 5678<\/a><\/p><p>Email Us: <a href=\"mailto:service@duywellery.com\" target=\"_blank\" title=\"mailto:service@duywellery.com\">service@duywellery.com<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_tCQhUf"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "contact_form_nkaF8x": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "image_banner_aWjikG"
+    "image_banner_aWjikG",
+    "rich_text_KF3Rbk",
+    "contact_form_nkaF8x"
   ]
 }
