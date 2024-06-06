@@ -30,7 +30,8 @@
         "text_qBFEen"
       ],
       "custom_css": [
-        ".rich-text__heading {width: 100%; text-align: center;}"
+        ".rich-text__heading {width: 100%; text-align: center;}",
+        ".rich-text__blocks {text-align: justify;}"
       ],
       "settings": {
         "desktop_content_position": "center",
