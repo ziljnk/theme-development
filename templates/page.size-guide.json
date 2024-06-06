@@ -14,20 +14,13 @@
         "heading_Wdtaba": {
           "type": "heading",
           "settings": {
-            "heading": "REFUND POLICY",
+            "heading": "SIZE GUIDE",
             "heading_size": "h1"
-          }
-        },
-        "text_qBFEen": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Engagement, Wedding and Eternity rings purchased from our 'ready-to-wear' collections cannot be returned past 14 days of purchase. Items from these collections cannot be worn or used in any way and must be returned in their original packaging along with the receipt, diamond reports, and all documentation. Items returned within 14 days will receive a store credit or exchange for the items value, less a $100 restocking fee.<\/p><p>Any piece that is customised in any way, including resizing and engraving, as well as custom designs and remodels cannot be returned. <\/p><p>By law, we are not required to provide a refund for change of mind purchases however at Duywellery we choose to provide our customers with a 30 day money back guarantee for all pieces outside of those stated above. Shipping costs will not be refunded when it is a change of mind. <\/p><p>After this time period, we will continue to help you find a solution if the item you have purchased:<\/p><ul><li>Has a manufacturing fault or is unsafe.<\/li><li>Doesn't match the samples or description.<\/li><li>Doesn't do what we said It would.<\/li><li>Doesn't do what you asked for.<\/li><\/ul><p>Duywellery will, for a major problem:<\/p><ul><li>Return the item and offer a refund, exchange or remake the piece if still desired.<\/li><\/ul><p>Duywellery will, for a minor problem:<\/p><ul><li>Repair the item within a reasonable time, or<\/li><li>Give you a refund or exchange if a repair is not possible.<\/li><\/ul><p>The item must be returned in “as new” condition in the original packaging and include a copy of your receipt. The item cannot have been worn or used in any way.<\/p><p><strong>Please return items to:<\/strong><br\/>MJS<br\/>PO Box 337<br\/>Nobby Beach QLD 4218<\/p>"
           }
         }
       },
       "block_order": [
-        "heading_Wdtaba",
-        "text_qBFEen"
+        "heading_Wdtaba"
       ],
       "custom_css": [
         ".rich-text__heading {width: 100%; text-align: center;}"
@@ -38,12 +31,25 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_JHx4BR": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".image-container {display: flex; flex-direction: column; justify-content: flex-start; align-items: center;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"image-container\">\n<p>Unsure of your ring size? We've got you covered with a size guide.<\/p>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0687\/5604\/6117\/files\/Ring_Size_Guide_2048x2048.png?v=1684377612\" alt=\"size guide 1\"\/>\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0687\/5604\/6117\/files\/Ring_Size_Guide_2048x2048.png?v=1684377612\" alt=\"size guide 1\"\/>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 0,
         "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
-    "rich_text_ncDziN"
+    "rich_text_ncDziN",
+    "custom_liquid_JHx4BR"
   ]
 }
