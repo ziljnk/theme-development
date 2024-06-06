@@ -246,7 +246,8 @@
     "featured_blog_XAUgXJ": {
       "type": "featured-blog",
       "custom_css": [
-        ".blog__title {width: 100%; text-align: center;}"
+        ".blog__title {width: 100%; text-align: center;}",
+        ".article-card .card__inner {height: 100%;}"
       ],
       "settings": {
         "heading": "Blog posts",
