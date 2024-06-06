@@ -126,7 +126,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-
+        ".card__inner {background: linear-gradient(135deg, #d6d6d6, white);}"
       ],
       "settings": {
         "title": "All products",
