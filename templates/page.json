@@ -14,14 +14,14 @@
         "heading_7niR9J": {
           "type": "heading",
           "settings": {
-            "heading": "Our Story",
+            "heading": "ABOUT US",
             "heading_size": "h1"
           }
         },
         "text_ieCnR3": {
           "type": "text",
           "settings": {
-            "text": "As Australia’s Premier Online and Australasian Award Winning Jewellery Retailer, Duywellery is far more than a store, it is an experience. Enjoy shopping in style at our beautiful boutique store on the Gold Coast, or shop with us online 24\/7.",
+            "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
             "text_style": "body"
           }
         }
