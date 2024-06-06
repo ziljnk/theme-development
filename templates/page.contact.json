@@ -72,6 +72,9 @@
     },
     "contact_form_nkaF8x": {
       "type": "contact-form",
+      "custom_css": [
+
+      ],
       "settings": {
         "heading": "",
         "heading_size": "h1",
