@@ -8,133 +8,51 @@
         "padding_bottom": 28
       }
     },
-    "image_banner_LReHeX": {
-      "type": "image-banner",
+    "rich_text_ncDziN": {
+      "type": "rich-text",
       "blocks": {
-        "heading_7niR9J": {
+        "heading_Wdtaba": {
           "type": "heading",
           "settings": {
-            "heading": "OUR STORY",
+            "heading": "SHIPPING POLICY",
             "heading_size": "h1"
           }
         },
-        "text_ieCnR3": {
+        "text_qBFEen": {
           "type": "text",
           "settings": {
-            "text": "As Australia’s Premier Online and Australasian Award Winning Jewellery Retailer, Duywellery is far more than a store, it is an experience. Enjoy shopping in style at our beautiful boutique store on the Gold Coast, or shop with us online 24\/7.",
-            "text_style": "body"
+            "text": "<p><strong>Express Shipping<\/strong> - We currently offer Express Post Australia-wide, shipping prices are determined by distance and weight. Australia Post recommends allowing 1-2 business days however please be advised that this service may be slightly delayed. <\/p><p><strong>Standard Shipping <\/strong>- Free on all orders over $150. We offer Parcel Post Australia-wide, shipping prices are determined by distance and weight. Australia Post usually recommends allowing 2 - 6 business days however please be advised that this service may be slightly delayed. <\/p><p>Express and standard shipping both have the choice of <span style=\"text-decoration:underline\">transit cover and signature on delivery<\/span> at the buyer's choice. Duywellery does not take ownership of any lost or stolen parcels however will offer assistance where possible to track the parcel. <\/p><p> <\/p><p><strong>Free Store Pickup<\/strong> - For our local customers we are happy to offer free store pickup. Please allow us 24 hours to get your order ready for collection. <\/p><p> <\/p><p><strong>International Shipping<\/strong> - We currently offer international shipping to the following countries.<\/p><p><em>US & Canada<\/em> - Includes tracking. Australia Post estimates 5 - 7 business days to the USA and 9 - 11 business days to Canada. Occasionally parcels will take longer however this is out of our control and dependent on Australia Post. Please be advised that this service may be slightly delayed. <\/p><p><em>New Zealand<\/em> - Includes tracking. Australia Post estimates 5 business days. Occasionally parcels will take longer however this is out of our control and dependent on Australia Post. Please be advised that this service may be slightly delayed.<\/p><p> <\/p><p><strong>Jewellery Cleaner<\/strong> - Please note that Jewellery Cleaner must be sent via road (Parcel Post) and therefore cannot be sent via express post or international shipping. This means that it can take anywhere from 7-10 business days to arrive. <\/p><p> <\/p><p><strong>If you have any questions regarding the shipping of your order, please don't hesitate to contact us on (09) 1234 5678 or via email at service@duywellery.com<\/strong><\/p>"
+          }
+        },
+        "button_CG7T6W": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_7niR9J",
-        "text_ieCnR3"
-      ],
-      "custom_css": [
-        ".banner__heading.inline-richtext.h1 {color: #ffffff; font-weight: bold; text-transform: uppercase; line-height: 1.125em; font-size: 64px;}",
-        ".banner__text.rte.body {color: #ffffff; max-width: 500px;}"
+        "heading_Wdtaba",
+        "text_qBFEen",
+        "button_CG7T6W"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/our_story_banner.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "image_behavior": "fixed",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "image_with_text_YMFYig": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_CL4ndD": {
-          "type": "heading",
-          "settings": {
-            "heading": "OUR STORY",
-            "heading_size": "h1"
-          }
-        },
-        "text_KQCket": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Duywellery is an independent family jeweller with over 40 years of experience and expertise in the beautiful world of jewellery. We are passionate about offering the highest quality of service, and our knowledge guarantees you and your precious jewellery will be exceptionally cared for.<\/p><p>We specialize in the finest quality jewellery repairs, remodelling, and custom designs. We take pride in offering a one-on-one, personalized design service that combines exceptional workmanship with meticulous attention to detaill. Immerse yourself in a seamless and educational experience toward the perfect engagement ring as we guide you through the entire process, from start to finish, ensuring your vision becomes a reality.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_CL4ndD",
-        "text_KQCket"
-      ],
-      "custom_css": [
-        ".image-with-text__text.rte.body {font-size: 16px; font-weight: 400; line-height: 1.5em; margin: -0.25em 0;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/our_story_1.webp",
-        "height": "large",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "section_color_scheme": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_8m64Wi": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_rQmhRY": {
-          "type": "heading",
-          "settings": {
-            "heading": "ABOUT US",
-            "heading_size": "h1"
-          }
-        },
-        "text_VcJqgL": {
-          "type": "text",
-          "settings": {
-            "text": "<p>As Australia’s Premier Online and Australasian Award-Winning Jewellery Retailer, Duywellery is far more than a store−it is an experience. Enjoy shopping in style at our beautiful boutique store located on the Gold Coast, or shop with us online 24\/7. Our extensive range of fine jewellery includes signature collections of yellow, white, and rose gold, in addition to hand-picked precious gemstone and pearl pieces.<br\/><br\/>Feel free to email us for some personal advice, it’s what we do best. We are available to help you source a specific piece of jewellery, or loose diamond, or to guide you through the process of deciding exactly what is right for that special someone− maybe even yourself! You can email us at<\/p><p><a href=\"mailto:service@duywelry.com\" target=\"_blank\" title=\"mailto:service@duywellery.com\">service@duywellery.com<\/a><\/p><p>Enjoy!<\/p><p>Linh.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_rQmhRY",
-        "text_VcJqgL"
-      ],
-      "custom_css": [
-        ".image-with-text__text.rte.body {font-size: 16px; font-weight: 400; line-height: 1.5em; margin: -0.25em 0;"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/our_story_2.webp",
-        "height": "large",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
-    "image_banner_LReHeX",
-    "image_with_text_YMFYig",
-    "image_with_text_8m64Wi"
+    "rich_text_ncDziN"
   ]
 }
