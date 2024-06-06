@@ -112,7 +112,7 @@
       ],
       "settings": {
         "title": "Latest Collections",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 2,
         "color_scheme": "",
@@ -130,7 +130,7 @@
       ],
       "settings": {
         "title": "All products",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -251,7 +251,7 @@
       ],
       "settings": {
         "heading": "Blog posts",
-        "heading_size": "h0",
+        "heading_size": "h1",
         "blog": "news",
         "post_limit": 3,
         "columns_desktop": 3,
