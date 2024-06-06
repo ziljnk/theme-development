@@ -125,6 +125,9 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "custom_css": [
+        ".quick-add__submit {max-width: 50px; width: 50px; min-width: 50px; color: transparent; height: 50px;}"
+      ],
       "settings": {
         "title": "All products",
         "heading_size": "h2",
@@ -143,8 +146,8 @@
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "standard",
+        "show_rating": true,
+        "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 44,
