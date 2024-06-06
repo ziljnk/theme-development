@@ -126,7 +126,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        ".quick-add__submit {max-width: 50px; width: 50px; min-width: 50px; color: transparent; height: 50px;}"
+
       ],
       "settings": {
         "title": "All products",
