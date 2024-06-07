@@ -38,7 +38,7 @@
         ".banner__box {backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); background-color: rgba(255, 255, 255, 0.5);}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner_image.jpg",
+        "image": "shopify:\/\/shop_images\/hero_section.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-left",
